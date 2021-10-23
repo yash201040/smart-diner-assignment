@@ -1,0 +1,19 @@
+.datePicker {
+  display: flex;
+  align-items: center;
+}
+
+.dateLabel {
+  margin-right: 15px;
+  font-size: 25px;
+  font-weight: 700;
+  color: rgb(219, 0, 0);
+}
+
+.dateDisplay {
+  padding: 2%;
+  font-size: 20px;
+  color: rgb(255, 45, 87);
+  border: 2px solid rgb(182, 0, 0);
+  border-radius: 5%;
+}
