@@ -1,1 +1,1 @@
-Display and browse restaurant orders data.
+Browse restaurant orders data.
